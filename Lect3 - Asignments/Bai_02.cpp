@@ -17,11 +17,11 @@ int main() {
     return 0;
 }
 
-//Mã giả:
-//function pow2(n):
- //  result = 1
- // for i = 1 to n:
- //result = result * 2
- //return result
+/*Mã giả:
+function pow2(n):
+  result = 1
+ for i = 1 to n:
+ result = result * 2
+ return result*/
 
 
