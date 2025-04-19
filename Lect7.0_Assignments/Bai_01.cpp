@@ -1,5 +1,5 @@
-#include<iostream> // Thư viện nhập xuất
-using namespace std; // Dùng không gian tên chuẩn
+#include<iostream> 
+using namespace std; 
 
 // Hàm tính tổng từ 1 đến n (dùng đệ quy)
 int Tong(int n){
