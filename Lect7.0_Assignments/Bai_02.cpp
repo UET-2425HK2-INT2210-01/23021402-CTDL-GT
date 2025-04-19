@@ -1,4 +1,4 @@
-#include<iostream> /
+#include<iostream> 
 using namespace std;
 
 // Hàm tính giai thừa của n (n!)
